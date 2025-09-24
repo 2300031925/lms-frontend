@@ -17,7 +17,7 @@ export default function Home({ user }) {
   .hero-section {
     position: relative;
     height: 350px;
-    background-image: url("/home.png");
+    background-image: url("/lms/home.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
