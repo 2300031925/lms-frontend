@@ -4,7 +4,7 @@ import App from './App';
 import './styles.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode basename="/lms">
+  <React.StrictMode basename="/lms-frontend">
     <App />
   </React.StrictMode>
 );

@@ -154,7 +154,7 @@ body {
 .hero-section {
   position: center;
   height: 60vh;
-  background: url("/lms/home-hero.jpg") no-repeat center center/cover;
+  background: url("/lms-frontend/home-hero.jpg") no-repeat center center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1053,7 +1053,7 @@ button {
   display: flex;
   justify-content: flex-start; /* keep form on left side */
   align-items: center;
-  background: url("/lms/auth.jpg") no-repeat center center;
+  background: url("/lms-frontend/auth.jpg") no-repeat center center;
   background-size: cover;
 }
 

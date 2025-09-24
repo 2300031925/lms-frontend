@@ -73,7 +73,7 @@ export default function Profile({ user, setUser, showNotif, navigate }) {
 
         .profile-page {
           min-height: 100vh;
-          background-image: url("/profile.png");
+          background-image: url("/lms-frontend/profile.png");
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
